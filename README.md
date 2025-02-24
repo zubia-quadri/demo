@@ -1,4 +1,4 @@
 # demo
 my first repository
 <br>
-Author: Zubiya Quadri
+Author: Miss Zubiya Quadri 
